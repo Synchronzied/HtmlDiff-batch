@@ -1,0 +1,3 @@
+input_folder1 = input1
+input_folder2 = input2
+output_folder = output
